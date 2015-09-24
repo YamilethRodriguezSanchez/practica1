@@ -1,0 +1,17 @@
+commit 0a0d0ad8b992331d5a4061c5b116adbd9719f76c
+Author: Yamileth <yamirodriguez9512@gmail.com>
+Date:   Thu Sep 24 11:21:22 2015 -0600
+
+     le quite lo de sin clonar
+
+commit 167cb1bd4bce355b3b05ba18cca77773fccb4327
+Author: Yamileth <yamirodriguez9512@gmail.com>
+Date:   Thu Sep 24 11:18:39 2015 -0600
+
+    practica 1 primer commit
+
+commit 2ac693bc87ba373fbd5a3227feb77ade16b2d0f2
+Author: YamilethRodriguezSanchez <yamirodriguez9512@gmail.com>
+Date:   Thu Sep 24 11:06:36 2015 -0600
+
+    Initial commit
